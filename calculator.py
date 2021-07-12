@@ -9,7 +9,14 @@
 #
 
 # name = 'sai prasad'
-# print(name.split(' '))
+max_number = 0
+[1,23,4,5,6,7,8,9,0,34,56,7]
+k=3
+
+[1,2, [1,2,3] [2,3,4, [4,5, [4,5]]]]
+[1,2,1,2,3,2,3,4,4,54,5]
+
+
 
 data = input("Enter input")
 # print(data.split("+"))
